@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://pbs.twimg.com/profile_images/2039738103276134401/uMF0mVVj_400x400.jpg" alt="Asif Iqbal banner" />
+  <img src="https://pbs.twimg.com/profile_images/2039738103276134401/uMF0mVVj_400x400.jpg" style="border-radius:50%;" alt="Asif Iqbal banner" />
 </div>
 
 <div align="center">
