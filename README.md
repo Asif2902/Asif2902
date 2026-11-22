@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Asif%20Ahmed&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20useful%20things%20at%20the%20edge%20of%20Web3%2C%20AI%20%26%20developer%20tools&descAlignY=62&descSize=16" alt="Asif Ahmed banner" />
+  <img src="https://pbs.twimg.com/profile_images/2039738103276134401/uMF0mVVj_400x400.jpg" alt="Asif Iqbal banner" />
 </div>
 
 <div align="center">
