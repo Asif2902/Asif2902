@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+  <img src="https://pbs.twimg.com/profile_images/2039738103276134401/uMF0mVVj_400x400.jpg" width="150" style="border-radius:50%;" alt="Asif Iqbal" />
+</div>
+
+<div align="center">
   <a href="https://0xasif.me">
     <img src="https://img.shields.io/badge/Portfolio-0xasif.me-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
