@@ -43,23 +43,14 @@ models, and developer experience meet.
 ## Live profile telemetry
 
 <div align="center">
-  <img src="./metrics.github.svg" width="49%" alt="GitHub profile telemetry" />
-  <img src="./metrics.languages.svg" width="49%" alt="Most-used languages" />
-</div>
-
-<div align="center">
-  <img src="./metrics.activity.svg" width="49%" alt="Recent GitHub activity" />
-  <img src="./metrics.isocalendar.svg" width="49%" alt="Contribution calendar" />
-</div>
-
-<div align="center">
-  <img src="./metrics.lines.svg" width="49%" alt="Code statistics" />
-  <img src="./metrics.repositories.svg" width="49%" alt="Repository statistics" />
-</div>
-
-<div align="center">
-  <img src="./metrics.habits.svg" width="49%" alt="Coding habits" />
-  <img src="./metrics.achievements.svg" width="49%" alt="GitHub achievements" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Asif2902&show_icons=true&include_all_commits=true&hide_border=true&bg_color=020617&title_color=60a5fa&icon_color=f59e0b&text_color=cbd5e1&ring_color=2563eb&rank_icon=github" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Asif2902&show_icons=true&include_all_commits=true&hide_border=true&title_color=2563eb&icon_color=f59e0b&text_color=475569&rank_icon=github" alt="GitHub profile telemetry" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Asif2902&layout=compact&langs_count=10&hide_border=true&bg_color=020617&title_color=60a5fa&text_color=cbd5e1" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asif2902&layout=compact&langs_count=10&hide_border=true&title_color=2563eb&text_color=475569" alt="Most-used languages" />
+  </picture>
 </div>
 
 <div align="center">
@@ -67,6 +58,11 @@ models, and developer experience meet.
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Asif2902&hide_border=true&background=020617&ring=2563eb&fire=f59e0b&currStreakLabel=60a5fa&sideLabels=cbd5e1&dates=64748b&currStreakNum=f8fafc&sideNums=f8fafc" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Asif2902&hide_border=true&ring=2563eb&fire=f59e0b&currStreakLabel=2563eb" alt="GitHub streak" />
   </picture>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Asif2902&bg_color=020617&color=cbd5e1&line=2563eb&point=f59e0b&area=true&hide_border=true&custom_title=Asif's%20GitHub%20Activity" alt="GitHub activity graph" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asif2902&theme=github_dark" alt="Repository and contribution timeline" />
 </div>
 
 ---
