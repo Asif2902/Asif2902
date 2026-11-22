@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,55:172554,100:2563eb&height=220&section=header&text=Asif%20Ahmed&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Builder%20%7C%20Web3%20%7C%20AI%20%7C%20Developer%20Tools&descAlignY=57&descSize=18" alt="Asif Ahmed" />
-</div>
-
-<div align="center">
-  <img src="https://pbs.twimg.com/profile_images/2039738103276134401/uMF0mVVj_400x400.jpg" width="150" style="border-radius:50%;" alt="Asif Iqbal" />
+  <img src="https://avatars.githubusercontent.com/u/107271220?v=4" width="150" height="150" style="border-radius:50%;" alt="Asif Ahmed" />
+  <h1>Asif Ahmed</h1>
+  <p><strong>Builder · Web3 · AI · Developer Tools</strong></p>
 </div>
 
 <div align="center">
@@ -34,7 +32,7 @@ Exploring: DeFi, sparse models, cross-chain systems, and practical automation
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
-| [**AchSwap**](https://github.com/Asif2902/Achswap) | Decentralized exchange and token ecosystem work across a growing suite of Web3 products. | `TypeScript` `Solidity` `DeFi` |
+| [**AchSwap**](https://github.com/achswap) | Decentralized exchange and token ecosystem work across a growing suite of Web3 products. | `TypeScript` `Solidity` `DeFi` |
 | [**MobileIDE**](https://github.com/Asif2902/MobileIDE) | A desktop-class JavaScript IDE for Android that runs Node.js, React, Next.js, Vite, and Express on a phone. | `JavaScript` `C++` `Mobile` |
 | [**AsifLlm**](https://github.com/Asif2902/AsifLlm) | **AchLLM** — a phone-native language model built around sparse MoE and 1.58-bit quantization. | `Python` `PyTorch` `AI` |
 | [**Ach Agent**](https://github.com/Asif2902/ach-agent) | An execution agent for BNB Chain market intelligence and liquidity routing. | `TypeScript` `DeFi` `Agents` |
@@ -49,10 +47,12 @@ Exploring: DeFi, sparse models, cross-chain systems, and practical automation
 
 ## GitHub activity
 
+> Private repository contributions can appear on this profile too. GitHub only shows them publicly after **Profile → Contributions & activity → Include private contributions** is enabled.
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Asif2902&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=020617&title_color=60a5fa&icon_color=f59e0b&text_color=cbd5e1&ring_color=2563eb&rank_icon=github" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Asif2902&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=2563eb&icon_color=f59e0b&text_color=475569&rank_icon=github" alt="GitHub statistics, including private contributions" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Asif2902&show_icons=true&include_all_commits=true&hide_border=true&bg_color=020617&title_color=60a5fa&icon_color=f59e0b&text_color=cbd5e1&ring_color=2563eb&rank_icon=github" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Asif2902&show_icons=true&include_all_commits=true&hide_border=true&title_color=2563eb&icon_color=f59e0b&text_color=475569&rank_icon=github" alt="GitHub statistics" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Asif2902&layout=compact&langs_count=8&hide_border=true&bg_color=020617&title_color=60a5fa&text_color=cbd5e1" />
